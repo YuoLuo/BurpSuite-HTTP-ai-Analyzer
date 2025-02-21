@@ -17,6 +17,13 @@ AI HTTP Analyzer 是一个 Burp Suite 插件，它利用 AI 能力来分析 HTTP
   - 自定义分析提示
   - 美观的 HTML 格式输出
 
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Plugin-orange)
+![Python](https://img.shields.io/badge/Python-2.7%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![AI](https://img.shields.io/badge/AI-Enabled-brightgreen)
+![Language](https://img.shields.io/badge/Language-中文-red)
+![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Ready-success)
+
 ## 安装要求
 
 - Burp Suite Professional 2024.1 或更高版本
