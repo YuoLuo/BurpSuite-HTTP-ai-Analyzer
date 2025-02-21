@@ -73,6 +73,10 @@ AI HTTP Analyzer 是一个 Burp Suite 插件，它利用 AI 能力来分析 HTTP
    - 有效的 API 访问地址
    - 正确的 API Key
    - 支持的模型名称
+## 运行截图
+
+![AI HTTP Analyzer 运行界面](<img width="1568" alt="image" src="https://github.com/user-attachments/assets/51adb8f7-af3b-4e59-910d-2bb2b05ca076" />
+)
 
 ## 常见问题
 
